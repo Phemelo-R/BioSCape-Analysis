@@ -6,6 +6,7 @@
 [![NASA BioSCape](https://img.shields.io/badge/Data-NASA%20BioSCape%202023-blue)](https://www.earthdata.nasa.gov/data/projects/bioscape)
 [![AVIRIS-NG](https://img.shields.io/badge/Sensor-AVIRIS--NG%20L3-orange)](https://aviris.jpl.nasa.gov/)
 [![LVIS](https://img.shields.io/badge/Sensor-LVIS%20L2-orange)](https://lvis.gsfc.nasa.gov/)
+[![Preprint](https://img.shields.io/badge/Publication-Preprint-blue)](https://essopenarchive.org/doi/full/10.22541/essoar.15001795/v1)
 
 ---
 
